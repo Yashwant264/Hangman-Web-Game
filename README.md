@@ -51,7 +51,7 @@ Open your web browser and go to the following URL:
 
 [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
-6\. Play game on: https://hangman-web-game.onrender.com
+6\. Play game on: [https://hangman-web-game.onrender.com](https://hangman-web-game-2d96.onrender.com)
 
 Instructions for testing
 
